@@ -4,7 +4,7 @@ d line 2
 d line 3
 d line 4
 d line 5
-chaos 7
+d line 6
 d line 7
 d line 8
 d line 9
@@ -89,7 +89,7 @@ d line 87
 d line 88
 d line 89
 d line 90
-d line 91
+chaos 8
 d line 92
 d line 93
 d line 94
